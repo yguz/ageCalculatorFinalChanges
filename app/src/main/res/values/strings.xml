@@ -1,0 +1,19 @@
+<resources>
+        <string name="app_name">Age Calculator</string>
+        <string name="age_calculator">Age Calculator</string>
+        <string name="birthday">Date of Birth</string>
+        <string name="today_birthday">Todays Date</string>
+        <string name="calculate_btn">Calculate Age</string>
+        <string name="date_hint">MM/dd/yyyy</string>
+        <string name="age_result">Age: %1$d years</string>
+
+        <string name="next_birthday_btn">Next Birthday</string>
+        <string name="current_age">Current age</string>
+        <string name="next_birthday">Next Birthday</string>
+        <string name="months_left">Months left until next birthday: </string>
+        <string name="days_left">Days left until next birthday: </string>
+        <string name="go_back_btn">Back to main menu</string>
+        <string name="enter_your_date_of_birth_mm_dd_yyyy">Enter your Date of Birth (mm/dd/yyyy)</string>
+
+</resources>
+
